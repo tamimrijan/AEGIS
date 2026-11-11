@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" width="1200" height="600" role="img" aria-label="AEGIS key hierarchy: a fingerprint-bound Android Keystore key unwraps two data keys, which encrypt everything stored in the database">
+  <g font-family="'Google Sans Flex','Google Sans',Roboto,'Segoe UI',Helvetica,Arial,sans-serif" text-anchor="middle">
+    <rect width="1200" height="600" rx="36" fill="#121318"/>
+
+    <g stroke="#5E6AA8" stroke-width="3" fill="none" stroke-linecap="round">
+      <path d="M600 138V186"/>
+      <path d="M600 262C600 300 300 280 300 322"/>
+      <path d="M600 262C600 300 900 280 900 322"/>
+      <path d="M300 442C300 478 520 462 520 496"/>
+      <path d="M900 442C900 478 680 462 680 496"/>
+    </g>
+
+    <rect x="320" y="34" width="560" height="104" rx="30" fill="#2E3F92"/>
+    <text x="600" y="78" font-size="25" font-weight="700" fill="#FFFFFF">Android Keystore key</text>
+    <text x="600" y="112" font-size="18" fill="#DDE1FF">AES-256 · secure hardware · needs your fingerprint every time</text>
+
+    <rect x="430" y="186" width="340" height="76" rx="38" fill="#434659"/>
+    <text x="600" y="220" font-size="21" font-weight="700" fill="#FFFFFF">Wrapped key blob</text>
+    <text x="600" y="246" font-size="16" fill="#DFE1F9">unwrapped only inside BiometricPrompt</text>
+
+    <rect x="60" y="322" width="480" height="120" rx="30" fill="#B9C3FF"/>
+    <text x="300" y="364" font-size="23" font-weight="700" fill="#14267B">Meta key</text>
+    <text x="300" y="394" font-size="17" fill="#1A2254">names · usernames · websites · 2FA seeds</text>
+    <text x="300" y="420" font-size="16" font-weight="600" fill="#2E3F92">in memory only while unlocked</text>
+
+    <rect x="660" y="322" width="480" height="120" rx="30" fill="#84D6C3"/>
+    <text x="900" y="364" font-size="23" font-weight="700" fill="#00382E">Secret key</text>
+    <text x="900" y="394" font-size="17" fill="#00382E">passwords · notes · cards · identity</text>
+    <text x="900" y="420" font-size="16" font-weight="600" fill="#005144">never kept · new fingerprint per action</text>
+
+    <rect x="280" y="496" width="640" height="76" rx="38" fill="#1E1F25" stroke="#45464F" stroke-width="2"/>
+    <text x="600" y="530" font-size="21" font-weight="700" fill="#E3E1E9">Database on your phone</text>
+    <text x="600" y="556" font-size="16" fill="#C6C5D0">ciphertext only · AES-256-GCM per field</text>
+  </g>
+</svg>
