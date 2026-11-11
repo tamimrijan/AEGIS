@@ -1,8 +1,14 @@
 <div align="center">
 
-<img src="docs/banner.svg" alt="AEGIS — offline password manager for Android" width="100%">
+<img src="branding/logo-5-bloom.svg" alt="AEGIS logo" width="150">
 
-<br><br>
+# AEGIS
+
+**Your passwords. Your phone. Nobody else.**
+
+Offline password manager, secure vault and smart autofill for Android
+
+<br>
 
 <img alt="Android 8.0+" src="https://img.shields.io/badge/Android-8.0+-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-2.0-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
@@ -111,15 +117,13 @@ Copied secrets are hidden from previews and wiped after a timer.
 
 ## 🎨 Design
 
-<img src="branding/logo-5-bloom.svg" width="110" align="right" alt="AEGIS logo">
-
 Built in Google's **Material 3 Expressive** style: tonal colour blocks, big rounded shapes,
 scalloped icon badges, buttons that change shape as you press them, and springy tabs.
 
 Set in **Google Sans Flex**, with **Google Sans Code** for passwords and codes.
 Dark theme first, plus a light theme and optional Material You wallpaper colours.
 
-<br clear="right">
+<br>
 
 ## 🛡️ How it keeps you safe
 
