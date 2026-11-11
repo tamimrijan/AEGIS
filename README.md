@@ -10,6 +10,12 @@ Offline password manager, secure vault and smart autofill for Android
 
 <br>
 
+<a href="https://github.com/tamimrijan/AEGIS/releases/download/v1.2.0/AEGIS-1.2.0-release.apk"><img alt="Download APK" src="https://img.shields.io/badge/Download_APK-v1.2.0-2E3F92?style=for-the-badge&logo=android&logoColor=white&labelColor=4658B8" height="46"></a>
+
+<sub><a href="https://github.com/tamimrijan/AEGIS/releases">All releases</a> · Android 8.0+ · 3.8 MB</sub>
+
+<br>
+
 <img alt="Android 8.0+" src="https://img.shields.io/badge/Android-8.0+-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-2.0-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
 <img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack_Compose-4658B8?style=for-the-badge&logo=jetpackcompose&logoColor=white">
@@ -171,11 +177,7 @@ Found a vulnerability? See **[SECURITY.md](SECURITY.md)**.
 
 ## 🚀 Get it running
 
-**1.** Install the APK (or [build it yourself](#-build-from-source))
-
-```bash
-adb install AEGIS-1.2.0-release.apk
-```
+**1.** [**Download the APK**](https://github.com/tamimrijan/AEGIS/releases/download/v1.2.0/AEGIS-1.2.0-release.apk) and open it on your phone (or [build it yourself](#-build-from-source))
 
 **2.** Enrol a fingerprint in Android settings, open AEGIS, tap **Create vault**
 
