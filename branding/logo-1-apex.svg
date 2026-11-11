@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108" width="512" height="512">
+  <title>AEGIS logo 1 - Apex: a shield carrying the letter A, with a keyhole dot</title>
+  <rect width="108" height="108" rx="26" fill="#1A2254"/>
+  <path d="M54 21L81 31.5V53C81 69.5 70 82 54 88C38 82 27 69.5 27 53V31.5Z" fill="#B9C3FF"/>
+  <path d="M41.5 67L54 39L66.5 67" fill="none" stroke="#1A2254" stroke-width="7.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="54" cy="63" r="3.8" fill="#1A2254"/>
+</svg>

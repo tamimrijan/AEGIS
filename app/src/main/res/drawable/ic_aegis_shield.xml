@@ -1,0 +1,23 @@
+<!-- Logo concept 5 "Bloom" without a background plate; used in autofill suggestion rows. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="54dp"
+    android:height="54dp"
+    android:viewportWidth="71"
+    android:viewportHeight="71">
+    <group
+        android:translateX="-18.5"
+        android:translateY="-18.5">
+        <path
+            android:fillColor="#B9C3FF"
+            android:pathData="M27,54a27,27 0 1,0 54,0a27,27 0 1,0 -54,0ZM64.5,54a12.5,12.5 0 1,0 25,0a12.5,12.5 0 1,0 -25,0ZM57.76,70.26a12.5,12.5 0 1,0 25,0a12.5,12.5 0 1,0 -25,0ZM41.5,77a12.5,12.5 0 1,0 25,0a12.5,12.5 0 1,0 -25,0ZM25.24,70.26a12.5,12.5 0 1,0 25,0a12.5,12.5 0 1,0 -25,0ZM18.5,54a12.5,12.5 0 1,0 25,0a12.5,12.5 0 1,0 -25,0ZM25.24,37.74a12.5,12.5 0 1,0 25,0a12.5,12.5 0 1,0 -25,0ZM41.5,31a12.5,12.5 0 1,0 25,0a12.5,12.5 0 1,0 -25,0ZM57.76,37.74a12.5,12.5 0 1,0 25,0a12.5,12.5 0 1,0 -25,0Z" />
+        <path
+            android:fillColor="#1A2254"
+            android:pathData="M54,36.5L68.5,42.2V54C68.5,63 62.5,69.8 54,73C45.5,69.8 39.5,63 39.5,54V42.2Z" />
+        <path
+            android:pathData="M47.3,54.6L52.4,59.7L61.2,50.2"
+            android:strokeColor="#B9C3FF"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:strokeWidth="4.6" />
+    </group>
+</vector>

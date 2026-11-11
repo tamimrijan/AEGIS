@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108" width="512" height="512">
+  <title>AEGIS logo 4 - Hex Vault: a padlock inside a rounded hexagon</title>
+  <rect width="108" height="108" rx="26" fill="#1A2254"/>
+  <path d="M54 25L79.1 39.5V68.5L54 83L28.9 68.5V39.5Z" fill="#B9C3FF" stroke="#B9C3FF" stroke-width="9" stroke-linejoin="round"/>
+  <path d="M45 52V45.5a9 9 0 0 1 18 0V52" fill="none" stroke="#1A2254" stroke-width="6" stroke-linecap="round"/>
+  <rect x="39" y="50.5" width="30" height="23" rx="6.5" fill="#1A2254"/>
+  <circle cx="54" cy="62" r="3.6" fill="#B9C3FF"/>
+</svg>

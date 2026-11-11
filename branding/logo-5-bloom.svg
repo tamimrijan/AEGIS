@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108" width="512" height="512">
+  <title>AEGIS logo 5 - Bloom: a Material Expressive scalloped badge holding a verified shield</title>
+  <rect width="108" height="108" rx="26" fill="#1A2254"/>
+  <g fill="#B9C3FF">
+    <circle cx="54" cy="54" r="27"/>
+    <circle cx="77" cy="54" r="12.5"/><circle cx="70.26" cy="70.26" r="12.5"/>
+    <circle cx="54" cy="77" r="12.5"/><circle cx="37.74" cy="70.26" r="12.5"/>
+    <circle cx="31" cy="54" r="12.5"/><circle cx="37.74" cy="37.74" r="12.5"/>
+    <circle cx="54" cy="31" r="12.5"/><circle cx="70.26" cy="37.74" r="12.5"/>
+  </g>
+  <path d="M54 36.5L68.5 42.2V54C68.5 63 62.5 69.8 54 73C45.5 69.8 39.5 63 39.5 54V42.2Z" fill="#1A2254"/>
+  <path d="M47.3 54.6L52.4 59.7L61.2 50.2" fill="none" stroke="#B9C3FF" stroke-width="4.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

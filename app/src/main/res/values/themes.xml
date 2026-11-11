@@ -1,0 +1,23 @@
+<resources>
+    <color name="aegis_bg">#121318</color>
+    <color name="aegis_surface">#1E1F25</color>
+    <color name="aegis_text">#E3E1E9</color>
+    <color name="aegis_text_dim">#C6C5D0</color>
+    <color name="aegis_accent">#B9C3FF</color>
+    <color name="aegis_icon_bg">#1A2254</color>
+
+    <style name="Theme.Aegis" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:windowBackground">@color/aegis_bg</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="colorAccent">@color/aegis_accent</item>
+    </style>
+
+    <style name="Theme.Aegis.Translucent">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+    </style>
+</resources>

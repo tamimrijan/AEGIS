@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108" width="512" height="512">
+  <title>AEGIS logo 3 - Facet: a two-tone folded shield with a keyhole</title>
+  <rect width="108" height="108" rx="26" fill="#1A2254"/>
+  <path d="M54 21L27 31.5V53C27 69.5 38 82 54 88Z" fill="#DDE1FF"/>
+  <path d="M54 21L81 31.5V53C81 69.5 70 82 54 88Z" fill="#8E9BEA"/>
+  <circle cx="54" cy="47.5" r="6.8" fill="#1A2254"/>
+  <path d="M50.4 51.5H57.6L60.2 67H47.8Z" fill="#1A2254"/>
+</svg>

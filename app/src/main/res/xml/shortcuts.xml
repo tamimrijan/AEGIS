@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:enabled="true"
+        android:icon="@drawable/ic_tile"
+        android:shortcutId="quick_vault"
+        android:shortcutLongLabel="@string/quick_vault_long"
+        android:shortcutShortLabel="@string/quick_vault">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetClass="com.aegis.vault.quick.QuickVaultActivity"
+            android:targetPackage="com.aegis.vault" />
+    </shortcut>
+</shortcuts>

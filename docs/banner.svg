@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" width="1200" height="380" role="img" aria-label="AEGIS - offline password manager, secure vault and smart autofill for Android">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1A2254"/>
+      <stop offset="1" stop-color="#121318"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="380" rx="36" fill="url(#bg)"/>
+  <circle cx="1080" cy="60" r="150" fill="#2E3F92" opacity="0.35"/>
+  <circle cx="1150" cy="330" r="110" fill="#005144" opacity="0.45"/>
+  <g transform="translate(96 82) scale(2)">
+    <rect width="108" height="108" rx="34" fill="#2E3F92"/>
+    <g fill="#B9C3FF">
+      <circle cx="54" cy="54" r="27"/>
+      <circle cx="77" cy="54" r="12.5"/><circle cx="70.26" cy="70.26" r="12.5"/>
+      <circle cx="54" cy="77" r="12.5"/><circle cx="37.74" cy="70.26" r="12.5"/>
+      <circle cx="31" cy="54" r="12.5"/><circle cx="37.74" cy="37.74" r="12.5"/>
+      <circle cx="54" cy="31" r="12.5"/><circle cx="70.26" cy="37.74" r="12.5"/>
+    </g>
+    <path d="M54 36.5L68.5 42.2V54C68.5 63 62.5 69.8 54 73C45.5 69.8 39.5 63 39.5 54V42.2Z" fill="#1A2254"/>
+    <path d="M47.3 54.6L52.4 59.7L61.2 50.2" fill="none" stroke="#B9C3FF" stroke-width="4.6" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="372" y="176" font-family="'Google Sans Flex','Google Sans',Roboto,'Segoe UI',Helvetica,Arial,sans-serif" font-size="104" font-weight="700" letter-spacing="6" fill="#E3E1E9">AEGIS</text>
+  <text x="376" y="232" font-family="'Google Sans Flex','Google Sans',Roboto,'Segoe UI',Helvetica,Arial,sans-serif" font-size="30" fill="#C6C5D0">Offline password manager, secure vault and smart autofill</text>
+  <text x="376" y="286" font-family="'Google Sans Flex','Google Sans',Roboto,'Segoe UI',Helvetica,Arial,sans-serif" font-size="24" font-weight="600" fill="#84D6C3">No account · No cloud · No recovery service · No tracking</text>
+</svg>

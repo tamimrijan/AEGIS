@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AEGIS</string>
+    <string name="quick_vault">Quick Vault</string>
+    <string name="quick_vault_long">Open AEGIS Quick Vault</string>
+</resources>
